@@ -163,14 +163,36 @@ This project helped me practice:
 
 # Business Insights
 
-Some insights generated from the analysis:
+## Revenue Insights
 
-* A small number of pizzas contribute heavily to total revenue.
-* Successful deliveries are the major source of revenue generation.
-* Certain customers place orders more frequently than others.
-* Some pizzas are highly ordered but not necessarily the highest revenue generating.
-* Failed and cancelled orders directly impact business revenue.
-* Order volumes vary across different dates, indicating peak demand periods.
+* A small group of pizzas contributes significantly to overall revenue.
+* Revenue analysis shows that successful deliveries are the primary revenue source.
+* High-priced pizzas generate strong revenue even with comparatively fewer orders.
+
+---
+
+## Customer Insights
+
+* Some customers consistently place more orders than others.
+* Repeat customers indicate customer retention and loyalty patterns.
+* Delivery success trends help identify customer ordering behavior.
+
+---
+
+## Product Insights
+
+* Certain pizzas are consistently ordered more frequently.
+* Top-selling pizzas are not always the highest revenue-generating products.
+* Quantity sold and pricing both influence profitability.
+
+---
+
+## Operational Insights
+
+* Order volumes vary significantly across different dates.
+* Peak delivery days can help optimize staffing and operations.
+* Failed and cancelled orders directly impact revenue generation.
+
 
 ---
 
